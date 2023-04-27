@@ -6,6 +6,7 @@
     <body>
        <outline text="LoRexxar's Blog" title="LoRexxar's Blog" type="rss" xmlUrl="https://lorexxar.cn/atom.xml" htmlUrl="https://lorexxar.cn/"/>
        <outline text="Evi1cg's Blog" title="Evi1cg's Blog" type="rss" xmlUrl="https://evi1cg.me/atom.xml" htmlUrl="https://evi1cg.me/"/>
+       <outline text="Lyon's blog" title="Lyon's blog" type="rss" xmlUrl="http://www.youngroe.com/atom.xml" htmlUrl="http://www.youngroe.com/"/>
        <outline text="Akkuman 的博客" title="Akkuman 的博客" type="rss" xmlUrl="https://hacktech.cn/atom.xml" htmlUrl="https://hacktech.cn/"/>
        <outline text="博客园 - 郑瀚Andrew" title="博客园 - 郑瀚Andrew" type="rss" xmlUrl="https://feed.cnblogs.com/blog/u/152568/rss/" htmlUrl="https://www.cnblogs.com/littlehann/"/>
        <outline text="Tom0li" title="Tom0li" type="rss" xmlUrl="https://tom0li.github.io/feed.xml" htmlUrl="https://tom0li.github.io/"/>
