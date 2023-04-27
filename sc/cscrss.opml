@@ -7,7 +7,7 @@
        <outline text="Seebug Paper" title="Seebug Paper" type="rss" xmlUrl="https://paper.seebug.org/rss" htmlUrl="https://paper.seebug.org"/>
        <outline text="绿盟" title="绿盟" type="rss" xmlUrl="http://blog.nsfocus.net/feed" htmlUrl="http://blog.nsfocus.net"/>
        <outline text="腾讯玄武实验室" title="腾讯玄武实验室" type="rss" xmlUrl="https://xlab.tencent.com/cn/atom.xml" htmlUrl="https://xlab.tencent.com"/>
-       <outline text="360 核心安全技术博客" title="360 核心安全技术博客" type="rss" xmlUrl="http://blogs.360.cn/rss.html" htmlUrl="http://blogs.360.cn"/>
+       <outline text="360 核心安全技术博客" title="360 核心安全技术博客" type="rss" xmlUrl="http://blogs.360.net/rss.html" htmlUrl="http://blogs.360.net"/>
        <outline text="知道创宇" title="知道创宇" type="rss" xmlUrl="http://blog.knownsec.com/feed" htmlUrl="http://blog.knownsec.com"/>
        <outline text="先知技术社区" title="先知技术社区" type="rss" xmlUrl="https://xz.aliyun.com/feed" htmlUrl="https://xz.aliyun.com"/>
        <outline text="美团技术团队" title="美团技术团队" type="rss" xmlUrl="https://rsshub.app/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed"/>
