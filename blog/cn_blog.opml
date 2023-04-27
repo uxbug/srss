@@ -30,6 +30,7 @@
        <outline text="K8哥哥’s Blog" title="K8哥哥’s Blog" type="rss" xmlUrl="https://k8gege.org/atom.xml" htmlUrl="http://k8gege.org"/>
        <outline text="专注APT攻击与防御" title="专注APT攻击与防御" type="rss" xmlUrl="https://micropoor.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://micropoor.blogspot.com"/>
        <outline text="小草窝博客" title="小草窝博客" type="rss" xmlUrl="https://x.hacking8.com/rss.php" htmlUrl="https://x.hacking8.com"/>
+       <outline text="回忆飘如雪" title="回忆飘如雪" type="rss" xmlUrl="http://gv7.me/atom.xml" htmlUrl="http://gv7.me/"/>
 
     </body>
 </opml>
