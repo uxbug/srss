@@ -19,6 +19,7 @@
        <outline text="腾讯安全响应中心" title="腾讯安全响应中心" type="rss" xmlUrl="https://security.tencent.com/index.php/feed/blog/0" htmlUrl="http://security.tencent.com"/>
        <outline text="Seebug漏洞社区" title="Seebug漏洞社区" type="rss" xmlUrl="https://www.seebug.org/rss/new" htmlUrl="https://www.seebug.org/rss/new"/>
        <outline text="NOSEC 安全讯息平台 - 漏洞预警" title="NOSEC 安全讯息平台 - 漏洞预警" type="rss" xmlUrl="https://rsshub.app/nosec/hole" htmlUrl="https://nosec.org/home/index/hole.html"/>
+        <outline text="奇安信攻防社区" title="奇安信攻防社区" type="rss" xmlUrl="https://forum.butian.net/Rss" htmlUrl="https://forum.butian.net/"/>
        <outline text="阿里云公告" title="阿里云公告" type="rss" xmlUrl="https://rsshub.app/aliyun/notice/2" htmlUrl="https://help.aliyun.com/noticelist/9213612.html"/>
        <outline text="跳跳糖 - 安全与分享社区" title="跳跳糖 - 安全与分享社区" type="rss" xmlUrl="https://tttang.com/rss.xml" htmlUrl="https://tttang.com"/>
        <outline text="奇安信A-TEAM技术博客" title="奇安信A-TEAM技术博客" type="rss" xmlUrl="https://blog.ateam.qianxin.com/atom.xml" htmlUrl="https://blog.ateam.qianxin.com"/>
