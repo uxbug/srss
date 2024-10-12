@@ -17,7 +17,7 @@
        <outline text="小马博客" title="小马博客" type="rss" xmlUrl="https://www.i0day.com/feed" htmlUrl="https://www.i0day.com/"/>
        <outline text="九世的博客" title="九世的博客" type="rss" xmlUrl="https://422926799.github.io/atom.xml" htmlUrl="https://422926799.github.io/"/>
        <outline text="chybeta博客" title="chybeta博客" type="rss" xmlUrl="https://chybeta.github.io/atom.xml" htmlUrl="https://chybeta.github.io"/>
-       <outline text="离别歌  (Phithon的博客)" title="离别歌  (Phithon的博客)" type="rss" xmlUrl="https://www.leavesongs.com/rss.php" htmlUrl="https://www.leavesongs.com"/>
+       <outline text="离别歌  (Phithon的博客)" title="离别歌  (Phithon的博客)" type="rss" xmlUrl="https://www.leavesongs.com/feed/" htmlUrl="https://www.leavesongs.com"/>
        <outline text="Chu" title="Chu" type="rss" xmlUrl="http://sh3ll.me/atom.xml" htmlUrl="http://sh3ll.me"/>
        <outline text="Yaseng" title="Yaseng" type="rss" xmlUrl="https://yaseng.org/rss.xml" htmlUrl="https://yaseng.org"/>
        <outline text="backlion" title="backlion" type="rss" xmlUrl="https://www.cnblogs.com/backlion/rss" htmlUrl="https://www.cnblogs.com/backlion/"/>
